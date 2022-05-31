@@ -1,0 +1,43 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Comfortaa", cursive;
+    font-size: 2rem;
+    padding: 0.5em;
+  }
+  
+  .cards-container {
+    display: grid;
+    grid-template: auto auto/ repeat(4, 2fr);
+    justify-content: center;
+    align-items: center;
+    font-family: "Comfortaa", cursive;
+    gap: 1.5em;
+  }
+  
+  .card-image {
+    height: 20em;
+    border-radius: 15px;
+  }
+  
+  .card {
+    background-color: #fbceb1;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Comfortaa", cursive;
+    font-size: 1rem;
+    padding: 0.8em;
+  }
+  
