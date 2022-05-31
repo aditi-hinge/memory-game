@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c3795ad.css",
+    "main.js": "/static/js/main.39f07e10.js",
+    "static/media/sabo.jpg": "/static/media/sabo.9d934e7e76d4e18cb5a9.jpg",
+    "static/media/usopp.jpg": "/static/media/usopp.279a034dc0c4d29a6683.jpg",
+    "static/media/brook.jpg": "/static/media/brook.aab2c021d828e2a4e220.jpg",
+    "static/media/franky.jpg": "/static/media/franky.47c98a8375591e32bc7b.jpg",
+    "static/media/vivi.jpg": "/static/media/vivi.fb94480f6c6330aec6a6.jpg",
+    "static/media/chopper.jpg": "/static/media/chopper.ea7d3ec67c6db19e42bd.jpg",
+    "static/media/nami.jpg": "/static/media/nami.0dbb8b6e27d4383dae02.jpg",
+    "static/media/zoro.jpg": "/static/media/zoro.8cb29205d96e7a602494.jpg",
+    "static/media/sanji.jpg": "/static/media/sanji.e73a7118aba0700be4ba.jpg",
+    "static/media/luffy.jpg": "/static/media/luffy.830002448638d0def73a.jpg",
+    "static/media/robin.jpg": "/static/media/robin.9f4aa915082dd03b3ce2.jpg",
+    "static/media/jinbei.jpg": "/static/media/jinbei.3b4fdd1168b8fe26c804.jpg",
+    "index.html": "/index.html",
+    "main.7c3795ad.css.map": "/static/css/main.7c3795ad.css.map",
+    "main.39f07e10.js.map": "/static/js/main.39f07e10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c3795ad.css",
+    "static/js/main.39f07e10.js"
+  ]
+}
