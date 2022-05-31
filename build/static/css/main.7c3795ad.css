@@ -1,0 +1,2 @@
+.header{display:flex;flex-direction:column;font-size:2rem;padding:.5em}.cards-container,.header{align-items:center;font-family:Comfortaa,cursive;justify-content:center}.cards-container{grid-gap:1.5em;display:grid;gap:1.5em;grid-template:auto auto/repeat(4,2fr)}.card-image{border-radius:15px;height:20em}.card{background-color:#fbceb1;border-radius:20px}.card,.footer{align-items:center;display:flex;flex-direction:column;justify-content:center}.footer{font-family:Comfortaa,cursive;font-size:1rem;padding:.8em}
+/*# sourceMappingURL=main.7c3795ad.css.map*/
