@@ -2,6 +2,7 @@
   "name": "memory-card",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://aditi-hinge.github.io/memory-game",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
@@ -9,8 +10,7 @@
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4",
-    "homepage": "http://aditi-hinge.github.io/memory-game"
+    "web-vitals": "^2.1.4"    
   },
   "scripts": {
     "start": "react-scripts start",
